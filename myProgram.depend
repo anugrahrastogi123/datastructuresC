@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\hp\desktop\myprogram\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1534685431 source:c:\users\hp\desktop\myprogram\bsearch.c
+	<stdio.h>
+
+1534690162 source:c:\users\hp\desktop\myprogram\matmulti.c
+	<stdio.h>
+
+1534675744 source:c:\users\hp\desktop\myprogram\transpose.c
+	<stdio.h>
+
